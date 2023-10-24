@@ -1,0 +1,1 @@
+// new normal functio added
